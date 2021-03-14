@@ -1,0 +1,46 @@
+body{
+	background-image: url("mSPU63U.jpg");
+	background-size: auto;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+	margin: auto;
+	width: 20%;
+	margin-top:100px;
+	background-color: #454545;
+	height: 370px;
+	border-radius: 5px;
+	position: sticky;
+}
+
+.answin{
+	background-color: white;
+	height: 80px;
+	margin-top: 8px;
+	position: sticky;
+	width: 99%;
+	font-size: 25px;
+	border: none;
+}
+
+.buttons{
+	position: sticky;
+	margin-top: 15px;
+}
+
+.column{
+	float: left;
+	display: table;
+	width: 21%;
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 2px;
+	padding-top: 30px;
+	padding-left: 11px;
+	cursor: pointer;
+}
